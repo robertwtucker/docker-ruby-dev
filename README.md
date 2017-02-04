@@ -1,5 +1,5 @@
 # docker-ruby-dev
-![docker build](https://img.shields.io/docker/automated/robertwtucker/docker-ruby-dev.svg)
+![docker build](https://img.shields.io/docker/automated/robertwtucker/ruby-dev.svg)
 
 Docker container for Ruby development with Node.js.
 
